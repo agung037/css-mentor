@@ -34,7 +34,7 @@
 <div class="main h-screen">
   
     <!-- box -->
-    <div class="border border-gray-800 w-80 bg-white rounded-xl flex flex-col p-4 text-white transition-transform transform {isHovered ? 'hover:shadow-[10px_10px_0px_0px_rgba(0,0,0)]' : 'shadow-[5px_5px_0px_0px_rgba(0,0,0)]'}">
+    <div class="border border-gray-800 w-80 bg-white rounded-xl flex flex-col p-4 text-white transition-transform transform {isHovered ? 'hover:shadow-[15px_15px_0px_0px_rgba(0,0,0)]' : 'shadow-[5px_5px_0px_0px_rgba(0,0,0)]'}">
         <img class="w-full h-50 object-cover rounded-xl mb-5" src="{image}" alt="Card Image">
         
         <div class="font-bold bg-yellow-400 text-black rounded-md w-1/3 text-center">
