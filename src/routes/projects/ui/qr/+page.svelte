@@ -21,14 +21,3 @@
     <!-- end of my card -->
 </div>
 
-<style>
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
-
-    /* apply garamond font on all of page */
-    body {
-        font-family: 'Roboto';
-    }
-
-</style>
