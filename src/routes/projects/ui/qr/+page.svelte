@@ -1,6 +1,5 @@
 
 <script>
-    import '../../../../app.css'
     import image from '$lib/images/image-qr-code.png';
 </script>
 
@@ -23,4 +22,13 @@
 </div>
 
 <style>
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+    /* apply garamond font on all of page */
+    body {
+        font-family: 'Roboto';
+    }
+
 </style>
